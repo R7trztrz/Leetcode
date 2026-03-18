@@ -1,0 +1,15 @@
+# Ignore everything by default
+/*
+
+# Keep this file tracked
+!.gitignore
+
+# Include root-level documentation files
+!/README.md
+!/LICENSE
+!/*.md
+!/*.txt
+
+# Only track source code under src/
+!/src/
+!/src/**
