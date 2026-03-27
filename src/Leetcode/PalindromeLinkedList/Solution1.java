@@ -3,11 +3,10 @@ package Leetcode.PalindromeLinkedList;
 import java.util.ArrayDeque;
 import java.util.Deque;
 
-class Solution {
+class Solution1 {
     public boolean isPalindrome(ListNode head) {
         Deque<ListNode> stack = new ArrayDeque<>();
         ListNode iterator = head;
-        int length = 0;
 
         while (iterator != null) {
             stack.push(iterator);
