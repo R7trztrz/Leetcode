@@ -1,6 +1,6 @@
 package Leetcode.PalindromeLinkedList;
 
-class Solution {
+class Solution2 {
     public boolean isPalindrome(ListNode head) {
         // quick & slow pointer
         ListNode slow = head;
