@@ -1,4 +1,4 @@
-package Leetcode.IntersectionofTwoLinkedLists;
+package Leetcode.Hot100.IntersectionofTwoLinkedLists;
 
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {

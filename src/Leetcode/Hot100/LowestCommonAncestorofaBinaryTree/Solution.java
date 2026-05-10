@@ -1,4 +1,4 @@
-package Leetcode.LowestCommonAncestorofaBinaryTree;
+package Leetcode.Hot100.LowestCommonAncestorofaBinaryTree;
 
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {

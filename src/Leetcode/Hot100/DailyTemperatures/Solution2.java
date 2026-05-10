@@ -1,4 +1,4 @@
-package Leetcode.DailyTemperatures;
+package Leetcode.Hot100.DailyTemperatures;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

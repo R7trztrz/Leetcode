@@ -1,4 +1,4 @@
-package Leetcode.IntersectionofTwoLinkedLists;
+package Leetcode.Hot100.IntersectionofTwoLinkedLists;
 
 public class ListNode {
     int val;
