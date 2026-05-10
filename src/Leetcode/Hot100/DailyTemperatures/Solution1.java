@@ -1,4 +1,4 @@
-package Leetcode.DailyTemperatures;
+package Leetcode.Hot100.DailyTemperatures;
 
 class Solution1 {
     public int[] dailyTemperatures(int[] temperatures) {

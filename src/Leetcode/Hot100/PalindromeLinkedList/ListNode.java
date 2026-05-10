@@ -1,4 +1,4 @@
-package Leetcode.PalindromeLinkedList;
+package Leetcode.Hot100.PalindromeLinkedList;
 
 public class ListNode {
     int val;

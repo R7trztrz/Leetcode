@@ -1,4 +1,4 @@
-package Leetcode.PalindromeLinkedList;
+package Leetcode.Hot100.PalindromeLinkedList;
 
 class Solution2 {
     public boolean isPalindrome(ListNode head) {

@@ -1,4 +1,4 @@
-package Leetcode.LowestCommonAncestorofaBinaryTree;
+package Leetcode.Hot100.LowestCommonAncestorofaBinaryTree;
 
 public class TreeNode {
     int val;
