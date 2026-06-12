@@ -1,4 +1,4 @@
-package Leetcode.DataStructure.StackAndQueue;
+package Leetcode.DataStructure.StackAndQueue.ImplementQueueusingStacks;
 
 import java.util.Stack;
 
