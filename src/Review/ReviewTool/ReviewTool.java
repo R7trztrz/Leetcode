@@ -1,4 +1,4 @@
-package ReviewTool;
+package Review.ReviewTool;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -30,7 +30,7 @@ public class ReviewTool {
             scanner.close();
         }
 
-        Path mdPath = Paths.get("src", "ReviewTool", "finished.md");
+        Path mdPath = Paths.get("src", "Review", "ReviewTool", "finished.md");
         if (!Files.exists(mdPath)) {
             System.err.println("finished.md not found at: " + mdPath.toAbsolutePath());
             return;
